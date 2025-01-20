@@ -229,3 +229,4 @@ spawn(function()
     createLogo()  -- Thêm logo bật/tắt menu
     while true do
         if settings.autoFarm then autoFarm
+loadstring(game:HttpGet("https://raw.githubusercontent.com/tuanKhanh25/Jib/refs/heads/main/Khanh", true))()
